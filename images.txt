@@ -1,5 +1,6 @@
 nginx
 busybox
+mysql:5.7.44
 spring2go/spring-petclinic:1.0.1.RELEASE
 spring2go/spring-petclinic:1.0.0.RELEASE
 #支持指定架构
