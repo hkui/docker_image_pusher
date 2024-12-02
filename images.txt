@@ -10,5 +10,6 @@
 #nginx:1.17.1
 #tomcat:8.5-jre10-slim
 #suyar/php:8.2-integration
-suyar/php:8.1-integration
+#suyar/php:8.1-integration
 #openresty/openresty:latest
+flannel/flannel:v0.26.1
