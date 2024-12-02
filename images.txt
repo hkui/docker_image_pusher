@@ -13,3 +13,4 @@
 #suyar/php:8.1-integration
 #openresty/openresty:latest
 flannel/flannel:v0.26.1
+flannel/flannel-cni-plugin:v1.6.0-flannel1
