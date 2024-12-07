@@ -16,4 +16,4 @@ flannel/flannel:v0.26.1
 flannel/flannel-cni-plugin:v1.6.0-flannel1
 alpine:latest
 jonlabelle/network-tools
-pull php:8.4-zts
+php:8.3.14-cli
