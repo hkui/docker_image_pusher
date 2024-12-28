@@ -17,3 +17,4 @@ flannel/flannel-cni-plugin:v1.6.0-flannel1
 alpine:latest
 jonlabelle/network-tools
 php:8.3.14-cli
+mysql:5.7
