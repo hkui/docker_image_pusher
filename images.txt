@@ -19,4 +19,4 @@ jonlabelle/network-tools
 php:8.3.14-cli
 mysql:5.7
 wordpress:6.7-php8.3
-chainguard/nfs-subdir-external-provisioner:latest
+chainguard/nfs-subdir-external-provisioner:sha256-da2ce1e18c42bd1c279724d4875ce79254f091bdf271f7c38b79566572ace671.sig
