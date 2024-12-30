@@ -20,3 +20,4 @@ php:8.3.14-cli
 mysql:5.7
 wordpress:6.7-php8.3
 registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+registry.k8s.io/nginx-slim:0.24
