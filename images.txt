@@ -26,3 +26,4 @@ kubernetesui/dashboard:v2.3.1
 kubernetesui/metrics-scraper:v1.0.6
 registry.k8s.io/metrics-server/metrics-server:v0.7.2
 canal/canal-server
+canal/canal-server:v1.1.7
