@@ -28,3 +28,4 @@ registry.k8s.io/metrics-server/metrics-server:v0.7.2
 canal/canal-server
 canal/canal-server:v1.1.7
 praqma/network-multitool
+php:8.2.27-zts
