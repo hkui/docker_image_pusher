@@ -29,3 +29,4 @@ canal/canal-server
 canal/canal-server:v1.1.7
 praqma/network-multitool
 php:8.2.27-zts
+canal/canal-admin:v1.1.7
