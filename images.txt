@@ -31,3 +31,4 @@ praqma/network-multitool
 bitnami/rabbitmq:3.13
 php:8.2.27-zts
 canal/canal-admin:v1.1.7
+rabbitmq:3.13-management
