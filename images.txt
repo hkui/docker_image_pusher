@@ -34,3 +34,4 @@ canal/canal-admin:v1.1.7
 rabbitmq:3.13-management
 composer/satis
 redis:7.2-alpine
+apachedoris/doris:latest
