@@ -35,5 +35,7 @@
 #composer/satis
 #redis:7.2-alpine
 
-apache/doris:be-3.1.1
-apache/doris:fe-3.1.1
+#apache/doris:be-3.1.1
+#apache/doris:fe-3.1.1
+zilliz/attu:v2.5.5
+
