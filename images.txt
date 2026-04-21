@@ -53,6 +53,8 @@
 #busybox:latest
 #ubuntu/squid:latest
 
+#----
 php:8.4-fpm-bookworm
+composer:2
 
 
