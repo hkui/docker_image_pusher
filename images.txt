@@ -42,15 +42,17 @@
 #php:8.4-fpm
 #mcr.microsoft.com/playwright:v1.59.1-noble
 
-langgenius/dify-api:1.13.3
-nginx:latest
-langgenius/dify-sandbox:0.2.14
-langgenius/dify-plugin-daemon:0.5.3-local
-redis:6-alpine
-semitechnologies/weaviate:1.27.0
-langgenius/dify-web:1.13.3
-postgres:15-alpine
-busybox:latest
-ubuntu/squid:latest
+#langgenius/dify-api:1.13.3
+#nginx:latest
+#langgenius/dify-sandbox:0.2.14
+#langgenius/dify-plugin-daemon:0.5.3-local
+#redis:6-alpine
+#semitechnologies/weaviate:1.27.0
+#langgenius/dify-web:1.13.3
+#postgres:15-alpine
+#busybox:latest
+#ubuntu/squid:latest
+
+php:8.4-fpm-bookworm
 
 
