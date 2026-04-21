@@ -54,7 +54,8 @@
 #ubuntu/squid:latest
 
 #----
-php:8.4-fpm-bookworm
-composer:2
+#php:8.4-fpm-bookworm
+#composer:2
+nginx:1.30.0-alpine
 
 
