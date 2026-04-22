@@ -57,5 +57,6 @@
 #php:8.4-fpm-bookworm
 #composer:2
 nginx:1.30.0-alpine
+fluent/fluentd:v1.16-debian-1
 
 
